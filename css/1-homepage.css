@@ -1,0 +1,366 @@
+/* screen - 1-homepage */
+
+.x1-homepage {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 2041px;
+  width: 1512px;
+}
+
+.x1-homepage .flex-col {
+  display: flex;
+  min-height: 965px;
+  width: 1512px;
+}
+
+.x1-homepage .nav-bar-gym-active {
+  background-color: #1ff9ec;
+  display: flex;
+  height: 133px;
+  width: 1512px;
+}
+
+.x1-homepage .frame-36 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 56px 56px;
+  width: 1510px;
+}
+
+.x1-homepage .frame-30 {
+  display: flex;
+  gap: 8px;
+  padding: 0px 10px;
+  width: 404px;
+}
+
+.x1-homepage .group-29 {
+  display: flex;
+  height: 96px;
+  margin-right: -10.00px;
+  position: relative;
+  width: 270px;
+}
+
+.x1-homepage .shopping_cart {
+  cursor: pointer;
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.x1-homepage .gym-apparel-sale {
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  margin-left: 141px;
+  margin-top: 72px;
+  white-space: nowrap;
+}
+
+.x1-homepage .product-card-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 457px;
+  margin-right: 25px;
+  margin-top: 112px;
+  min-width: 1346px;
+}
+
+.x1-homepage .product-card-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 446px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .compression-leggings-1 {
+  height: 253px;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .blog-post-card {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: -14.00px;
+  padding: 12px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .blog-tittle {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 191px;
+  width: 100%;
+}
+
+.x1-homepage .compression-leggings-2 {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 331px;
+}
+
+.x1-homepage .x-text {
+  gap: 10px;
+  margin-right: -12.00px;
+  padding: 10px;
+  width: 343px;
+}
+
+.x1-homepage .blog-text {
+  gap: 10px;
+  height: 67px;
+  justify-content: center;
+  padding: 10px;
+  width: 294px;
+}
+
+.x1-homepage .flex-container {
+  display: inline-flex;
+  gap: 2.5px;
+}
+
+.x1-homepage .text {
+  align-self: stretch;
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  position: relative;
+}
+
+.x1-homepage .product-card-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 445px;
+  margin-left: 154px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .compression-shorts-2 {
+  height: 253px;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .product-type-1 {
+  margin-bottom: -3.00px;
+}
+
+.x1-homepage .x-tittle {
+  align-self: stretch;
+  gap: 191px;
+  width: 100%;
+}
+
+.x1-homepage .compression {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1-homepage .product-card-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 446px;
+  margin-left: 127px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .running-shoes {
+  height: 253px;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .product-type-2 {
+  margin-bottom: -2.00px;
+}
+
+.x1-homepage .cross-trainers {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1-homepage .trending-now {
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  margin-left: 141px;
+  margin-top: 139px;
+  white-space: nowrap;
+}
+
+.x1-homepage .product-card-container-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 504px;
+  margin-right: 37px;
+  margin-top: 86px;
+  min-width: 1334px;
+}
+
+.x1-homepage .product-card-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 503px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .compression-leggings {
+  height: 503px;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .product-type-3 {
+  margin-bottom: -195.00px;
+}
+
+.x1-homepage .compression-top {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1-homepage .product-card-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 503px;
+  margin-left: 154px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .product-type {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: -192.00px;
+  padding: 12px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .compression-leggings-3 {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1-homepage .colour {
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1-homepage .product-card-6 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 503px;
+  margin-left: 115px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .footer-gym-active {
+  align-items: flex-end;
+  background-color: #24cdf2;
+  display: flex;
+  gap: 20px;
+  height: 46px;
+  justify-content: center;
+  margin-top: 447px;
+  padding: 10px 22px;
+  position: relative;
+  width: 1512px;
+}
+
+.x1-homepage .blog-1 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.x1-homepage .flex {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.x1-homepage .frame {
+  align-items: center;
+  height: 128px;
+  position: relative;
+}
+
+.x1-homepage .product-type-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 12px;
+  position: relative;
+  width: 355px;
+}
+
+.x1-homepage .x {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}

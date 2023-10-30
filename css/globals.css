@@ -1,0 +1,196 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:500|Public+Sans:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/651549891a9f051279c7242f.6515498a1a9f051279c72432.feSFt6y.hcp.png");
+
+@font-face {
+  font-family: "Proxima Nova-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/FontsFree-Net-pr2.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Proxima Nova-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/.173.otf") format("opentype");
+}
+@font-face {
+  font-family: "Proxima Nova-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Mark Simonson - Proxima Nova A.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.logo {
+  display: flex;
+  height: 108px;
+  max-height: 108px;
+  max-width: 116px;
+  position: relative;
+  width: 116px;
+}
+
+.group-30 {
+  background-color: #f71c1c;
+  border-radius: 45px;
+  display: flex;
+  height: 90px;
+  margin-left: 13px;
+  margin-top: 9.5px;
+  width: 90px;
+}
+
+.star-1 {
+  height: 65.12px;
+  margin-left: 11.7px;
+  margin-top: 9.5px;
+  width: 68.48px;
+}
+
+.nav-item {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 96px;
+  justify-content: center;
+  padding: 16px 8px;
+  position: relative;
+  width: 270px;
+}
+
+.title {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-semibold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0.05px;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-1 {
+  gap: 10px;
+  height: 66px;
+  padding: 16px;
+  width: 140px;
+}
+
+.about {
+  letter-spacing: 0.05px;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-2 {
+  gap: 10px;
+  height: 66px;
+  padding: 16px;
+  width: 124px;
+}
+
+.shop {
+  letter-spacing: 0.05px;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-3 {
+  gap: 10px;
+  height: 66px;
+  padding: 16px;
+  width: 113px;
+}
+
+.blog {
+  letter-spacing: 0.05px;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-4 {
+  background-color: #9090905e;
+  gap: 10px;
+  height: 51px;
+  padding: 16px;
+  width: 248px;
+}
+
+.search-gym-star {
+  color: #909090;
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: 0.03px;
+  line-height: 26px;
+  margin-bottom: -2.50px;
+  margin-top: -4.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-5 {
+  gap: 42px;
+  height: 114px;
+  padding: 16px 10px;
+  width: 201px;
+}
+
+.copyright-all-rights-reserved-2023 {
+  letter-spacing: 0.25px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-item-6 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}

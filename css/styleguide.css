@@ -1,0 +1,77 @@
+:root { 
+  --black: #000000;
+  --colors--grey--grey-2: #a8aabd;
+  --cultured-pearl: #f5f5f58a;
+  --jordy-blue: #97baef66;
+  --primary: #0d0d0d;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 38px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-proxima_nova-medium: "Proxima Nova-Medium", Helvetica;
+  --font-family-proxima_nova-regular: "Proxima Nova-Regular", Helvetica;
+  --font-family-proxima_nova-semibold: "Proxima Nova-Semibold", Helvetica;
+  --font-family-public_sans: "Public Sans", Helvetica;
+}
+.proximanova-medium-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-regular-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-proxima_nova-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-regular-normal-woodsmoke-18px {
+  color: var(--primary);
+  font-family: var(--font-family-proxima_nova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
